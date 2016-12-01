@@ -1,0 +1,24 @@
+{
+  "name": "feature-ui",
+  "description": "Vaguely cucumber-esque Mocha interface.",
+  "version": "0.1.0",
+  "author": "Guy Royse <guy@guyroyse.com>",
+  "contributors": [
+    "Eric Butler <ebutler@pillartechnology.com>",
+    "Erin Moore <emoore@pillartechnology.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/guyroyse/feature-ui"
+  },
+  "peerDependencies": {
+    "mocha": ">=1.12.0"
+  },
+  "main": "feature-ui.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http: //www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
