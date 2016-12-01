@@ -11,9 +11,6 @@
     "type": "git",
     "url": "http://github.com/guyroyse/feature-ui"
   },
-  "peerDependencies": {
-    "mocha": ">=1.12.0"
-  },
   "main": "feature-ui.js",
   "licenses": [
     {
