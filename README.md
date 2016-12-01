@@ -1,6 +1,9 @@
 # Obligatory
 
-Just a super basic example. More to come if this actually works.
+**WARNING** This library does not work. It was a spike. If you can make it
+work, please do so and sent us a pull request. ¡Muchas gracias!
+
+Just a super basic example.
 
 ## Samples
 
